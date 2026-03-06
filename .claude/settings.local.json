@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd.exe /c \"dotnet --version\")",
+      "Bash(cmd.exe /c \"where dotnet\")",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Program Files \\(x86\\)/**)",
+      "Read(//c/Users/andys/OneDrive/exileui-Github/$PROGRAMFILES/**)",
+      "Read(//c/Users/andys/OneDrive/exileui-Github/$LOCALAPPDATA/Programs/**)",
+      "Read(//c/Users/andys/**)"
+    ]
+  }
+}

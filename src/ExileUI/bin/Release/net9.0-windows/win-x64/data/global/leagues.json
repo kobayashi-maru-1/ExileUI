@@ -1,0 +1,38 @@
+{
+  "sc": {
+    "ssf": {
+      "normal": {
+        "standard": "Solo Self-Found"
+      },
+      "ruthless": {
+        "standard": "SSF Ruthless"
+      }
+    },
+    "trade": {
+      "normal": {
+        "standard": "Standard"
+      },
+      "ruthless": {
+        "standard": "Ruthless"
+      }
+    }
+  },
+  "hc": {
+    "ssf": {
+      "normal": {
+        "standard": "Hardcore SSF"
+      },
+      "ruthless": {
+        "standard": "Hardcore SSF Ruthless"
+      }
+    },
+    "trade": {
+      "normal": {
+        "standard": "Hardcore"
+      },
+      "ruthless": {
+        "standard": "Hardcore Ruthless"
+      }
+    }
+  }
+}
